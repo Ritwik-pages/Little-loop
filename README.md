@@ -55,7 +55,7 @@ footer{padding:25px;text-align:center;background:#111;color:#ccc}
 <h2>Our Collections ✨</h2>
 <div class="products">
 <div class="card">
-<img src="bracelet1.png"
+<img src="file_000000007044821182e0f57497afa488.webp"
 alt="Little Loop bracelet"
 class="product-img">
 <h3>Rainbow Names</h3>
