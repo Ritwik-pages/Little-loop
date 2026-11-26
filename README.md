@@ -22,6 +22,13 @@ h2{color:#e5c45b}
 .products{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;max-width:650px;margin:auto}
 .card{background:#191919;border:1px solid #705c28;border-radius:15px;padding:15px}
 .emoji{font-size:48px}
+.product-img {
+width:100%;
+height:160px;
+object-fit:cover;
+border-radius:12px;
+margin-bottom:10px;
+}
 .card h3{color:#f3d36a}
 .price{color:#fff;font-weight:bold}
 .card button{background:#d4af37;border:0;padding:10px 15px;border-radius:20px;font-weight:bold}
