@@ -55,7 +55,9 @@ footer{padding:25px;text-align:center;background:#111;color:#ccc}
 <h2>Our Collections ✨</h2>
 <div class="products">
 <div class="card">
-<div class="emoji">🌈</div>
+<img src="bracelet1.png"
+alt="Little Loop bracelet"
+class="product-img">
 <h3>Rainbow Names</h3>
 <p>Colourful name bracelets</p>
 <p class="price">₹49</p>
