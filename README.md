@@ -60,7 +60,7 @@ alt="Little Loop bracelet"
 class="product-img">
 <h3>Rainbow Names</h3>
 <p>Colourful name bracelets</p>
-<p class="price">₹49</p>
+<p class="price">₹60</p>
 <button onclick="choose('Rainbow Names',49)">Order Now</button>
 </div>
 <div class="card">
