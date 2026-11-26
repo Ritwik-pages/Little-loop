@@ -78,7 +78,7 @@ class="product-img">
 <button onclick="choose('Smiley Loops',69)">Order Now</button>
 </div>
 <div class="card">
-<div class="emoji">💕</div>
+<img src="./" alt="Bestie Loops" style="width:100%;height:160px;object-fit:cover;border-radius:12px;">
 <h3>Bestie Loops</h3>
 <p>Matching friendship pair</p>
 <p class="price">₹119</p>
