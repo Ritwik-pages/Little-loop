@@ -111,7 +111,7 @@ let colour=document.getElementById('colour').value;
 let product=document.getElementById('product').value||"Custom bracelet";
 if(!customer||!name){alert("Please enter your name and bracelet name!");return;}
 let message=`Hello Little Loop! I want to order a bracelet.%0ACustomer: ${customer}%0ABracelet name: ${name}%0AColour: ${colour}%0ACollection: ${product}`;
-window.open("https://wa.me/91XXXXXXXXXX?text="+message,"_blank");
+window.open("https://wa.me/919985459876?text="+message,"_blank");
 }
 </script>
 </body>
