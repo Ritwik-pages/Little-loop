@@ -22,7 +22,7 @@ h2{color:#e5c45b}
 .products{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;max-width:650px;margin:auto}
 .card{background:#191919;border:1px solid #705c28;border-radius:15px;padding:15px}
 .emoji{font-size:48px}
-.product-img {
+.product-img {file_000000007044821182e0f57497afa488.webp
 width:100%;
 height:160px;
 object-fit:cover;
