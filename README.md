@@ -65,9 +65,9 @@ class="product-img">
 </div>
 <div class="card">
 <img src="./1795739108397.png"
-     alt="Neon Vibes Rainbow Bracelet"
+     alt="Rubberband Bracelet"
      class="product-img">
-<h3>Neon Vibes</h3>
+<h3>Rubberband bracelet</h3>
 <p>Bright and funky bracelets</p>
 <p class="price">₹59</p>
 <button onclick="choose('Neon Vibes',59)">Order Now</button>
