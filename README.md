@@ -64,7 +64,9 @@ class="product-img">
 <button onclick="choose('Rainbow Names',49)">Order Now</button>
 </div>
 <div class="card">
-<div class="emoji">💚</div>
+<img src=""
+     alt="Neon Vibes Rainbow Bracelet"
+     class="product-img">
 <h3>Neon Vibes</h3>
 <p>Bright and funky bracelets</p>
 <p class="price">₹59</p>
