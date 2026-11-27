@@ -64,7 +64,7 @@ class="product-img">
 <button onclick="choose('Rainbow Names',49)">Order Now</button>
 </div>
 <div class="card">
-<img src=""
+<img src="./1795739108397.png"
      alt="Neon Vibes Rainbow Bracelet"
      class="product-img">
 <h3>Neon Vibes</h3>
